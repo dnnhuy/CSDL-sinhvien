@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="QLSV" id="C4FCFE81-53F2-A65D-6387-9E242F82D560" version="3.5">
+<createdBy>Acer</createdBy>
+<createdTime>2023-11-17 12:18:47 UTC</createdTime>
+<ownerDesignName>QLSV</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C4FCFE81-53F2-A65D-6387-9E242F82D560</designId>
+</OSDM_Design>
